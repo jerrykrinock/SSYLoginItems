@@ -1,0 +1,330 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 48D8269A0D5810F8006A5D9A /* SSLoginItems */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* SSLoginItems */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* SSLoginItems */,
+		);
+		codeSenseManager = 48D826A00D581136006A5D9A /* Code sense */;
+		executables = (
+			48D8269A0D5810F8006A5D9A /* SSLoginItems */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					473,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 275637508;
+			PBXWorkspaceStateSaveDate = 275637508;
+		};
+		perUserProjectItems = {
+			48D39096106DD5B000DC52C3 /* PBXTextBookmark */ = 48D39096106DD5B000DC52C3 /* PBXTextBookmark */;
+			48D3909A106DD5B000DC52C3 /* PBXTextBookmark */ = 48D3909A106DD5B000DC52C3 /* PBXTextBookmark */;
+			48D390D8106DE4F800DC52C3 /* PBXTextBookmark */ = 48D390D8106DE4F800DC52C3 /* PBXTextBookmark */;
+			48D390D9106DE4F800DC52C3 /* PBXTextBookmark */ = 48D390D9106DE4F800DC52C3 /* PBXTextBookmark */;
+			48D390DB106DE4F800DC52C3 /* PBXTextBookmark */ = 48D390DB106DE4F800DC52C3 /* PBXTextBookmark */;
+			48D390DC106DE4F800DC52C3 /* PBXTextBookmark */ = 48D390DC106DE4F800DC52C3 /* PBXTextBookmark */;
+			48D390E9106DE55B00DC52C3 /* PlistBookmark */ = 48D390E9106DE55B00DC52C3 /* PlistBookmark */;
+			48D390EA106DE55B00DC52C3 /* PBXTextBookmark */ = 48D390EA106DE55B00DC52C3 /* PBXTextBookmark */;
+			48D390EB106DE55B00DC52C3 /* PBXTextBookmark */ = 48D390EB106DE55B00DC52C3 /* PBXTextBookmark */;
+			48D390EC106DE55B00DC52C3 /* PBXTextBookmark */ = 48D390EC106DE55B00DC52C3 /* PBXTextBookmark */;
+			48D390ED106DE55B00DC52C3 /* PlistBookmark */ = 48D390ED106DE55B00DC52C3 /* PlistBookmark */;
+			48D390EE106DE55B00DC52C3 /* PBXTextBookmark */ = 48D390EE106DE55B00DC52C3 /* PBXTextBookmark */;
+			48D390EF106DE55B00DC52C3 /* PlistBookmark */ = 48D390EF106DE55B00DC52C3 /* PlistBookmark */;
+			48D390F0106DE55B00DC52C3 /* PBXTextBookmark */ = 48D390F0106DE55B00DC52C3 /* PBXTextBookmark */;
+			48D390F1106DE55B00DC52C3 /* PBXTextBookmark */ = 48D390F1106DE55B00DC52C3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 48D8269F0D581136006A5D9A /* Source Control */;
+		userBookmarkGroup = 485A699A0D5CA8FD0090927F /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	32A70AAB03705E1F00C91783 /* SSLoginItems_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 536}}";
+			sepNavSelRange = "{166, 0}";
+			sepNavVisRange = "{0, 166}";
+			sepNavWindowFrame = "{{15, 34}, {627, 963}}";
+		};
+	};
+	485A699A0D5CA8FD0090927F /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			485A6B070D5D45030090927F /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	485A6B060D5D45030090927F /* MacErrors.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MacErrors.h;
+		path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Headers/MacErrors.h;
+		sourceTree = "<absolute>";
+	};
+	485A6B070D5D45030090927F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 485A6B060D5D45030090927F /* MacErrors.h */;
+		name = "MacErrors.h: 8";
+		rLen = 3;
+		rLoc = 136;
+		rType = 0;
+		vrLen = 2057;
+		vrLoc = 0;
+	};
+	485A6C000D5D7F740090927F /* SSLoginItemsDemo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 2324}}";
+			sepNavSelRange = "{3790, 7}";
+			sepNavVisRange = "{3017, 1933}";
+			sepNavWindowFrame = "{{370, 413}, {835, 498}}";
+		};
+	};
+	48BB33DD0DCA699D00886189 /* SSYLoginItems.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2502, 1918}}";
+			sepNavSelRange = "{1110, 0}";
+			sepNavVisRange = "{648, 1440}";
+			sepNavWindowFrame = "{{43, 142}, {788, 860}}";
+		};
+	};
+	48BB33DE0DCA699D00886189 /* SSYLoginItems.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {714, 6328}}";
+			sepNavSelRange = "{2714, 21}";
+			sepNavVisRange = "{2419, 567}";
+			sepNavWindowFrame = "{{15, 96}, {869, 901}}";
+		};
+	};
+	48C51B380F2B7E7B003DF693 /* License.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {651, 748}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1710}";
+		};
+	};
+	48D39096106DD5B000DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48BB33DE0DCA699D00886189 /* SSYLoginItems.m */;
+		name = "SSYLoginItems.m: 116";
+		rLen = 21;
+		rLoc = 2714;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 2419;
+	};
+	48D3909A106DD5B000DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48BB33DE0DCA699D00886189 /* SSYLoginItems.m */;
+		name = "SSYLoginItems.m: 423";
+		rLen = 7;
+		rLoc = 10069;
+		rType = 0;
+		vrLen = 519;
+		vrLoc = 9841;
+	};
+	48D390D4106DE44D00DC52C3 /* NSError+LowLevel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {651, 733}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1087}";
+		};
+	};
+	48D390D8106DE4F800DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 485A6C000D5D7F740090927F /* SSLoginItemsDemo.m */;
+		name = "SSLoginItemsDemo.m: 125";
+		rLen = 7;
+		rLoc = 3790;
+		rType = 0;
+		vrLen = 1933;
+		vrLoc = 3017;
+	};
+	48D390D9106DE4F800DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48D390D4106DE44D00DC52C3 /* NSError+LowLevel.h */;
+		name = "NSError+LowLevel.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1087;
+		vrLoc = 0;
+	};
+	48D390DB106DE4F800DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 485A6C000D5D7F740090927F /* SSLoginItemsDemo.m */;
+		name = "SSLoginItemsDemo.m: 125";
+		rLen = 7;
+		rLoc = 3790;
+		rType = 0;
+		vrLen = 1933;
+		vrLoc = 3017;
+	};
+	48D390DC106DE4F800DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48D390D4106DE44D00DC52C3 /* NSError+LowLevel.h */;
+		name = "NSError+LowLevel.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1087;
+		vrLoc = 0;
+	};
+	48D390E9106DE55B00DC52C3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 489A114F103C3B7D00EF78EF /* SSYLoginItems Documentation.webarchive */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jk/Documents/Programming/Projects/SSYLoginItems/SSYLoginItems Documentation.webarchive";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	48D390EA106DE55B00DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48C51B380F2B7E7B003DF693 /* License.txt */;
+		name = "License.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 0;
+	};
+	48D390EB106DE55B00DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48BB33DD0DCA699D00886189 /* SSYLoginItems.h */;
+		name = "SSYLoginItems.h: 22";
+		rLen = 0;
+		rLoc = 1110;
+		rType = 0;
+		vrLen = 3276;
+		vrLoc = 0;
+	};
+	48D390EC106DE55B00DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48BB33DD0DCA699D00886189 /* SSYLoginItems.h */;
+		name = "SSYLoginItems.h: 22";
+		rLen = 0;
+		rLoc = 1110;
+		rType = 0;
+		vrLen = 3276;
+		vrLoc = 0;
+	};
+	48D390ED106DE55B00DC52C3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 489A114F103C3B7D00EF78EF /* SSYLoginItems Documentation.webarchive */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jk/Documents/Programming/Projects/SSYLoginItems/SSYLoginItems Documentation.webarchive";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	48D390EE106DE55B00DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48C51B380F2B7E7B003DF693 /* License.txt */;
+		name = "License.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 0;
+	};
+	48D390EF106DE55B00DC52C3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 489A114F103C3B7D00EF78EF /* SSYLoginItems Documentation.webarchive */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jk/Documents/Programming/Projects/SSYLoginItems/SSYLoginItems Documentation.webarchive";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	48D390F0106DE55B00DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48C51B380F2B7E7B003DF693 /* License.txt */;
+		name = "License.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 0;
+	};
+	48D390F1106DE55B00DC52C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 48BB33DD0DCA699D00886189 /* SSYLoginItems.h */;
+		name = "SSYLoginItems.h: 22";
+		rLen = 0;
+		rLoc = 1110;
+		rType = 0;
+		vrLen = 3276;
+		vrLoc = 0;
+	};
+	48D8269A0D5810F8006A5D9A /* SSLoginItems */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SSLoginItems;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	48D8269F0D581136006A5D9A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	48D826A00D581136006A5D9A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F960486AA7600D96B5E /* SSLoginItems */ = {
+		activeExec = 0;
+		executables = (
+			48D8269A0D5810F8006A5D9A /* SSLoginItems */,
+		);
+	};
+}
